@@ -1,0 +1,15 @@
+type: code
+files:
+- name: main.py
+  visible: true
+  text: |-
+    ost = Happy
+    print(type_of(0st))
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/11111#comment
+status: Failed
+feedback:
+  message: |
+    Failed. Wrong answer
+  time: Tue, 19 Oct 2021 00:32:13 UTC
+record: -1
